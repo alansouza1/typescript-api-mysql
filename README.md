@@ -27,7 +27,7 @@ Crie o banco de dados com o comando:
 ```sh
 docker exec -it trybesmith npm run restore
 ```
-E por fim inicie o servidor back-end com o comando:
+E por fim, inicie o servidor back-end com o comando:
 ```
 docker exec -it trybesmith npm run dev
 ```
