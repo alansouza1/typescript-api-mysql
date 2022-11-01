@@ -11,7 +11,7 @@ Para o cadastro de usuários foi utilizado o _JWT(JSON Web Token)_ para gerar um
 # Rodando o Projeto
 
 ### Requisitos:
-- Node.js
+- Node.js 16
 - Docker
 - Docker Compose
 
