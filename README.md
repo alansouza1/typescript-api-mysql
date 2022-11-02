@@ -11,7 +11,7 @@ Para o cadastro de usuários foi utilizado o _JWT(JSON Web Token)_ para gerar um
 # Rodando o Projeto
 
 ### Requisitos:
-- Node.js
+- Node.js 16
 - Docker
 - Docker Compose
 
@@ -27,7 +27,7 @@ Crie o banco de dados com o comando:
 ```sh
 docker exec -it trybesmith npm run restore
 ```
-E por fim inicie o servidor back-end com o comando:
+E por fim, inicie o servidor back-end com o comando:
 ```
 docker exec -it trybesmith npm run dev
 ```
